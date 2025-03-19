@@ -17,7 +17,7 @@ This GitHub organization is the central hub for the DevRel Jam community, hostin
 - **Speak at Jams:** Share your favorite technology and its cool use cases at our future Jams. We are looking for speakers to present 15-minute lightning talks. Each talk will feature two speakers focusing on core technologies and showcasing how they integrate or work together.
 - **Contribute:** Help us improve by contributing to our GitHub repositories.
 
-## Upcoming DevRel Jams 🚀
+## Upcoming Jams 🚀
 
 ### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
   - Date: [To Be Announced]
