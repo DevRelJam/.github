@@ -22,12 +22,12 @@ This GitHub organization is the central hub for the DevRel Jam community, hostin
 ### [**Bengaluru, India 🇮🇳**](https://github.com/devreljam/BLR-APR-2025)
   - Date: Thursday, 24th April 2025
   - Co-located with Great International Developer Summit (GIDS) 2025
-  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml) by **11:59 PM IST, 6th April 2025**
+  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=BLR-APR-2025) by **11:59 PM IST, 6th April 2025**
 
 ### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
   - Date: Thursday, 7th August 2025
   - Co-located with KubeCon India 2025
-  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml) by **11:59 PM IST, 29th June 2025**
+  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=HYD-AUG-2025) by **11:59 PM IST, 29th June 2025**
 
 ## Code of Conduct 📄
 We are committed to providing a welcoming and inclusive environment for all participants. Please review our [Code of Conduct](https://github.com/DevRelJam/.github/blob/main/CODE_OF_CONDUCT.md) before participating in our events or community.
