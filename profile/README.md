@@ -4,7 +4,7 @@
 
 ## About 💡
 
-DevRel Jam is a meetup specifically designed for Developer Relations (DevRel) professionals. Our aim is to move beyond typical DevRel discussions and delve into the core technologies that DevRels work with and advocate for. We believe in learning through practical demonstrations and peer-to-peer knowledge sharing.
+DevRel Jam is a meetup specifically designed for Developer Relations (DevRel) professionals. Our aim is to move beyond typical DevRel discussions and delve into the core technologies that DevRels work with and advocate for.
 
 - **Unique Format:** Every DevRel Jam features lightning talks with pairs of speakers focusing on how different technologies integrate or work together.
 - **Meaningful Networking:** Ample time for networking to foster connections and learning among peers.
