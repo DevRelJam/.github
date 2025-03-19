@@ -1,6 +1,6 @@
 # Welcome to DevRel Jam 🎉
 
-![Cover](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/1i/57089ebf-d3b3-49ba-9dbc-b3ff4a1d0c67.png)
+![Cover](/assets/DevRelJam%20Cover.png)
 
 ## About 💡
 
