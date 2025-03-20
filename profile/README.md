@@ -33,6 +33,6 @@ This GitHub organization is the central hub for the DevRel Jam community, hostin
 We are committed to providing a welcoming and inclusive environment for all participants. Please review our [Code of Conduct](https://github.com/DevRelJam/.github/blob/main/CODE_OF_CONDUCT.md) before participating in our events or community.
 
 ## Contact ✉️
-For any inquiries, please feel free to reach out to us at yashrajnayak@live.com
+For any inquiries, please feel free to reach out to [Yashraj Nayak](https://www.linkedin.com/in/yashrajnayak/).
 
 We look forward to your contributions and seeing you at our Jams!
