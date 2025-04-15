@@ -20,7 +20,7 @@ This GitHub organization is the central hub for the DevRel Jam community, hostin
 ## Upcoming Jams 🚀
 
 ### [**Bengaluru, India 🇮🇳**](https://github.com/devreljam/BLR-APR-2025)
-  - Date: Thursday, 24th April 2025
+  - Date: Tuesday, 22th April 2025
   - On the sidelines of Great International Developer Summit (GIDS) 2025
 
 ### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
