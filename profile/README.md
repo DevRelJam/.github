@@ -8,12 +8,10 @@ Our aim is to move beyond typical DevRel discussions and delve into the core tec
 
 This GitHub organization is the central hub for DevRelJams, hosting information about past and upcoming Jams.
 
-Share your favorite technology and its cool use cases in 7.5 minutes at future Jams! [More information here](https://github.com/DevRelJam/Speakers).
-
 ### How to Get Involved ⭐️
 
-- **Attend:** Check [this Luma calendar](https://lu.ma/devreljam) for upcoming Jams and RSVP.
-- **Speak:** Share your favorite technology and its cool use cases.
+- **Attend:** Check [this Luma calendar](https://lu.ma/devreljam) for upcoming Jams and RSVP
+- **Speak:** Share your favorite technology and its cool use cases in 7.5 minutes at future Jams! [More information here](https://github.com/DevRelJam/Speakers)
 
 ### Upcoming Jams 🚀
 
@@ -24,7 +22,6 @@ Share your favorite technology and its cool use cases in 7.5 minutes at future J
 #### [**Hyderabad, India 🇮🇳**](https://github.com/devreljam/HYD-AUG-2025)
   - Date: Thursday, 7th August 2025
   - On the sidelines of KubeCon India 2025
-  - Call for Speakers: [Create an Issue here](https://github.com/devreljam/Call-For-Speakers/issues/new?template=call_for_speakers.yml&labels=HYD-AUG-2025) by **11:59 PM IST, 29th June 2025**
 
 ### Code of Conduct 📄
 We are committed to providing a welcoming and inclusive environment for all participants. Please review our [Code of Conduct](https://github.com/DevRelJam/.github/blob/main/CODE_OF_CONDUCT.md) before participating in our events or community.
