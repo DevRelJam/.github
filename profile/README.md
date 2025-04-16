@@ -12,8 +12,8 @@ Share your favorite technology and its cool use cases in 7.5 minutes at future J
 
 ### How to Get Involved ⭐️
 
-- **Attend Jams:** Check [this Luma calendar](https://lu.ma/devreljam) for upcoming Jams and RSVP.
-- **Speak at Jams:** Share your favorite technology and its cool use cases.
+- **Attend:** Check [this Luma calendar](https://lu.ma/devreljam) for upcoming Jams and RSVP.
+- **Speak:** Share your favorite technology and its cool use cases.
 
 ### Upcoming Jams 🚀
 
