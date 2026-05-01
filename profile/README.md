@@ -101,26 +101,11 @@ Past Jams have brought together DevRel leaders, developer advocates, community b
 | [Sourabh Bagrecha](https://sessionize.com/sourabhbagrecha/) | Senior Developer Advocate, MongoDB | Bengaluru April 2025 |
 | [Stephen Chin](https://github.com/steveonjava) | VP of Developer Relations, Neo4j | Bengaluru April 2025 |
 
-## Featured Attendees
-
-Featured from approved/checked-in community registrations where role and organization were available.
-
-| Attendee | Designation | Jam |
-| --- | --- | --- |
-| Vikram Sahu | Developer Relations Engineer, Harness | Bengaluru April 2025 |
-| Teja Kummarikuntla | Developer Relations Engineer, Harness | Bengaluru April 2025 |
-| Raghuram Pandurangan | Sr. Manager, Developer Docs, PayU India | Bengaluru April 2025 |
-| Lakshit Pant | CPM, MVP Program, Microsoft | Bengaluru April 2025 |
-| Kartikay Sharma | Community Growth Manager, OutSystems | Bengaluru April 2025 |
-| Achanandhi M | Developer Advocate, Keploy | Bengaluru April 2025 |
-| Zameer Fouzan | Lead Developer Relations Engineer, New Relic | Bengaluru April 2025 |
-| Waqar Ahmed | DevRel and Growth, Lyzr AI | Bengaluru April 2025 |
-
 ## How to Get Involved
 
 - **Attend:** Check the [DevRelJam Luma calendar](https://luma.com/devreljam) for upcoming Jams and RSVP.
 - **Speak:** Submit a practitioner talk or discussion idea through [Sessionize](https://sessionize.com/devreljam/).
-- **Follow along:** Watch this GitHub organization and follow DevRelJam on [LinkedIn](https://linkedin.com/company/devreljam) and [Instagram](https://instagram.com/devreljam).
+- **Follow along:** Watch this [GitHub](https://github.com/devreljam) organization and follow DevRelJam on [LinkedIn](https://linkedin.com/company/devreljam) and [Instagram](https://instagram.com/devreljam).
 
 ## Speak at a Future Jam
 
