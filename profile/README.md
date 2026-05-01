@@ -70,11 +70,11 @@ Browse previous DevRelJam editions, agendas, and speaker themes from cities wher
 
 | Jam | Date | Location | Repo | Luma |
 | --- | --- | --- | --- | --- |
-| [DevRelJam Bengaluru - April 2025](https://github.com/DevRelJam/BLR-APR-2025) | April 22, 2025 | Bengaluru, India | [Repo](https://github.com/DevRelJam/BLR-APR-2025) | [Luma](https://luma.com/n9xptnma) |
-| [DevRel Jam Hyderabad - August 2025](https://github.com/DevRelJam/HYD-AUG-2025) | August 7, 2025 | Hyderabad, India | [Repo](https://github.com/DevRelJam/HYD-AUG-2025) | [Luma](https://lu.ma/umwjgbi2) |
-| [DevRelJam Bengaluru - September 2025](https://github.com/DevRelJam/BLR-SEP-2025) | September 17, 2025 | Bengaluru, India | [Repo](https://github.com/DevRelJam/BLR-SEP-2025) | [Luma](https://luma.com/t2yy3srv) |
-| [DevRelJam Singapore - February 2026](https://github.com/DevRelJam/SG-FEB-2026) | February 26, 2026 | Figma Singapore | [Repo](https://github.com/DevRelJam/SG-FEB-2026) | [Luma](https://luma.com/248dtdi3) |
 | [DevRelJam Bengaluru - April 2026](https://github.com/DevRelJam/BLR-APR-2026) | April 23, 2026 | Bengaluru, India | [Repo](https://github.com/DevRelJam/BLR-APR-2026) | [Luma](https://luma.com/bg8edxm7) |
+| [DevRelJam Singapore - February 2026](https://github.com/DevRelJam/SG-FEB-2026) | February 26, 2026 | Figma Singapore | [Repo](https://github.com/DevRelJam/SG-FEB-2026) | [Luma](https://luma.com/248dtdi3) |
+| [DevRelJam Bengaluru - September 2025](https://github.com/DevRelJam/BLR-SEP-2025) | September 17, 2025 | Bengaluru, India | [Repo](https://github.com/DevRelJam/BLR-SEP-2025) | [Luma](https://luma.com/t2yy3srv) |
+| [DevRel Jam Hyderabad - August 2025](https://github.com/DevRelJam/HYD-AUG-2025) | August 7, 2025 | Hyderabad, India | [Repo](https://github.com/DevRelJam/HYD-AUG-2025) | [Luma](https://lu.ma/umwjgbi2) |
+| [DevRelJam Bengaluru - April 2025](https://github.com/DevRelJam/BLR-APR-2025) | April 22, 2025 | Bengaluru, India | [Repo](https://github.com/DevRelJam/BLR-APR-2025) | [Luma](https://luma.com/n9xptnma) |
 
 ## Featured Speakers and Moderators
 
