@@ -1,0 +1,63 @@
+name: Sync Organization Profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-profile-readme.yml'
+
+concurrency:
+  group: sync-organization-profile-readme
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-profile-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout organization profile repository
+        uses: actions/checkout@v6
+
+      - name: Checkout public website repository
+        run: git clone --depth 1 https://github.com/DevRelJam/devreljam.github.io.git website
+
+      - name: Validate website config
+        run: |
+          test -f website/data/config.json
+          jq empty website/data/config.json
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Generate organization profile README
+        env:
+          CONFIG_PATH: website/data/config.json
+          PROFILE_README_PATH: profile/README.md
+        run: node website/scripts/generate-profile-readme.cjs
+
+      - name: Check for profile README changes
+        id: verify-changed-files
+        run: |
+          if git diff --quiet -- profile/README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff -- profile/README.md
+          fi
+
+      - name: Commit and push organization profile README
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/README.md
+          git commit -m "Sync profile README from website config"
+          git push
