@@ -1,7 +1,4 @@
 <!-- AUTO-GENERATED: Edit data/config.json in DevRelJam/devreljam.github.io, then run scripts/generate-profile-readme.cjs. -->
-
-# DevRelJam
-
 ![DevRelJam cover](/assets/DevRelJam%20Cover.png)
 
 Developer Relations, in real conversations.
@@ -40,7 +37,6 @@ Each Jam is intentionally practical: small enough for honest exchange, structure
 | Date | Tuesday, September 29, 2026 |
 | Time | 6:00 PM - 9:00 PM Singapore Time |
 | Location | Singapore |
-| Status | Approval required |
 | Register | [Luma event](https://luma.com/wnygmi8l) |
 
 Join DevRel practitioners for a focused evening of peer-led sessions, an Ask Me Anything block, and practical conversations about developer advocacy, community, and engagement.
