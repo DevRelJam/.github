@@ -12,7 +12,6 @@ A practitioner-first community initiative where DevRel folks jam on what worked,
 [![Speakers](https://img.shields.io/badge/Speakers-Sessionize-2563eb?style=for-the-badge)](https://sessionize.com/devreljam/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DevRelJam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devreljam)
 [![Instagram](https://img.shields.io/badge/Instagram-DevRelJam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devreljam)
-[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devreljam)
 
 </div>
 
