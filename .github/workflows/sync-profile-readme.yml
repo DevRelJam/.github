@@ -3,11 +3,12 @@ name: Sync Organization Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: "17 6 * * *"
   push:
     branches: [main]
     paths:
-      - '.github/workflows/sync-profile-readme.yml'
+      - ".github/workflows/sync-profile-readme.yml"
+      - ".github/scripts/generate-profile-readme.mjs"
 
 concurrency:
   group: sync-organization-profile-readme
@@ -27,26 +28,28 @@ jobs:
       - name: Checkout public website repository
         run: git clone --depth 1 https://github.com/DevRelJam/devreljam.github.io.git website
 
-      - name: Validate website config
+      - name: Validate website data
         run: |
-          test -f website/data/config.json
-          jq empty website/data/config.json
+          jq empty website/public/data/site.json
+          jq empty website/public/data/events.json
+          jq empty website/public/data/people.json
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: '24'
+          node-version: "24"
 
       - name: Generate organization profile README
         env:
-          CONFIG_PATH: website/data/config.json
+          WEBSITE_DIR: website
           PROFILE_README_PATH: profile/README.md
-        run: node website/scripts/generate-profile-readme.cjs
+          PROFILE_ASSET_DIR: assets
+        run: node .github/scripts/generate-profile-readme.mjs
 
-      - name: Check for profile README changes
+      - name: Check for generated changes
         id: verify-changed-files
         run: |
-          if git diff --quiet -- profile/README.md; then
+          if git diff --quiet -- profile/README.md assets/devreljam-avocado-logo.png assets/devreljam-avocado-mark.png; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -58,6 +61,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add profile/README.md
+          git add profile/README.md assets/devreljam-avocado-logo.png assets/devreljam-avocado-mark.png
           git commit -m "Sync profile README from website config"
           git push
