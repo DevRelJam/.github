@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://devreljam.space">
-    <img src="../assets/devreljam-avocado-logo.png" alt="DevRelJam avocado logo" width="420">
+    <img src="../assets/readme/devreljam-github-banner.png" alt="DevRelJam GitHub organization banner with avocado mascot and Developer Relations tagline" width="100%">
   </a>
 </p>
 
